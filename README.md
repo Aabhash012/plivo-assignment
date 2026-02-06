@@ -88,3 +88,7 @@ On subscribe:
   "client_id": "s1",
   "last_n": 5
 }
+
+### 5. Urls for the deployed backend service:
+Backend application endpoint: https://plivo-assignment-z6t4.onrender.com/health
+health check endpoint: https://plivo-assignment-z6t4.onrender.com/health
