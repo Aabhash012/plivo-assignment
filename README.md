@@ -92,5 +92,5 @@ On subscribe:
 
 -----
 ### 5. Urls:
-backend app url: https://plivo-assignment-z6t4.onrender.com/health
+backend app url: https://plivo-assignment-z6t4.onrender.com
 health check endpoint: https://plivo-assignment-z6t4.onrender.com/health
